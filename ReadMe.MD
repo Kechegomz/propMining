@@ -78,6 +78,7 @@ The repository is structured as follows:
 
 **Scripts**: *A repository cotaining python scripts used to mine commits.*
 >**classifier** : *The automatic commit classifier*
+
 >**AllNFPCommits.pdf**: *Fully expanded commit table*
 
 ***NOTES***
