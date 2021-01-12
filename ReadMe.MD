@@ -82,6 +82,6 @@ The repository is structured as follows:
 >**classifier** : *The automatic commit classifier*
 
 >**AllNFPCommits.pdf**: *Fully expanded commit table*
-
+>**CMRepoProps.pdf**: *Properties of repositories mined by the classifier*
 ***NOTES***
 *Empty files are present where no commits of that group were found.*
