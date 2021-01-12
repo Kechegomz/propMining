@@ -38,7 +38,7 @@ The automatically mined repositories in which at least one commit was found to i
 |openmw|https://github.com/xyzz/openmw-android
 |Port Authority|https://github.com/aaronjwood/PortAuthority
 |Pixiv for Muzei|https://github.com/yellowbluesky/PixivforMuzei3
-|openfoodfacts|https://github.com/openfoodfacts/openfoodfacts-androidapp]
+|openfoodfacts|https://github.com/openfoodfacts/openfoodfacts-androidapp
 |AntennaPod|https://github.com/AntennaPod/AntennaPod
 |Tower Collector|https://github.com/anthonycr/TowerCollector
 |glt-companion|https://github.com/linuxtage/glt-companion
@@ -50,6 +50,8 @@ The automatically mined repositories in which at least one commit was found to i
 |Kernel Adiutor|https://github.com/NHellFire/KernelAdiutor
 |OpenBike Sharing|https://github.com/bparmentier/OpenBikeSharing
 |GigaGet|https://github.com/PaperAirplane-Dev-Team/GigaGet
+|LightningBrowser|https://github.com/anthonycr/Lightning-Browser
+
 
 
 
