@@ -81,9 +81,9 @@ The repository is structured as follows:
 **Scripts**: *A repository cotaining python scripts used to mine commits.*
 >**classifier** : *The automatic commit classifier*
 
->**AllNFPCommits.pdf**: *Fully expanded commit table, including commits filtered with the automatic classifier*
+**AllNFPCommits.pdf**: *Fully expanded commit table, including commits filtered with the automatic classifier*
 
->**CMRepoProps.pdf**: *Properties of the repositories mined by the classifier, in which commits were found*
+**CMRepoProps.pdf**: *Properties of the repositories mined by the classifier, in which commits were found*
 
 ***NOTES***
 *Empty files are present where no commits of that group were found.*
