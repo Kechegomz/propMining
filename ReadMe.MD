@@ -27,7 +27,7 @@ This is the repository containing a set of commits which improve the non-functio
 |NewPipe|[https://github.com/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)|
 
 
-The automatically mined repositories in which at least one commit was found to improve a non-functional property can be found below:
+The classifier mined repositories in which at least one commit was found to improve a non-functional property can be found below, the full list of classifier mined repos can be found in the allmined.txt file:
 
 |Name  | Repository |
 |--|--|
@@ -53,7 +53,7 @@ The automatically mined repositories in which at least one commit was found to i
 |LightningBrowser|https://github.com/anthonycr/Lightning-Browser
 
 
-
+Tables containing the number of commits found improving nonfunctoinal propertieds in each repository can be found in the tables.pdf file
 
 The repository is structured as follows:
 
@@ -81,9 +81,7 @@ The repository is structured as follows:
 **Scripts**: *A repository cotaining python scripts used to mine commits.*
 >**classifier** : *The automatic commit classifier*
 
-**AllNFPCommits.pdf**: *Fully expanded commit table, including commits filtered with the automatic classifier*
-
-**CMRepoProps.pdf**: *Properties of the repositories mined by the classifier, in which commits were found*
+**Tables.pdf**: *Extended versions of tables containing information about commits using both keyword filtering and our automatic classifier
 
 ***NOTES***
 *Empty files are present where no commits of that group were found.*
