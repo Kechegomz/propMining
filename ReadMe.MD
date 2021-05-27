@@ -31,26 +31,86 @@ The classifier mined repositories in which at least one commit was found to impr
 
 |Name  | Repository |
 |--|--|
-|Koreader|https://github.com/koreader/koreader
-|lnwallet|https://github.com/btcontract/lnwallet
-|Calendar Notification|https://github.com/quarck/CalendarNotification
-|rbb|https://github.com/btmura/rbb
-|openmw|https://github.com/xyzz/openmw-android
-|Port Authority|https://github.com/aaronjwood/PortAuthority
-|Pixiv for Muzei|https://github.com/yellowbluesky/PixivforMuzei3
-|openfoodfacts|https://github.com/openfoodfacts/openfoodfacts-androidapp
-|AntennaPod|https://github.com/AntennaPod/AntennaPod
-|Tower Collector|https://github.com/anthonycr/TowerCollector
-|glt-companion|https://github.com/linuxtage/glt-companion
-|avare|https://github.com/apps4av/avare
-|TVH Guide|https://github.com/john-tornblom/TVHGuide
-|Easy Token|https://github.com/cernekee/EasyToken
-|ProExpense|https://github.com/arduia/ProExpense
-|SMS Sync|https://github.com/ushahidi/SMSSync
-|Kernel Adiutor|https://github.com/NHellFire/KernelAdiutor
-|OpenBike Sharing|https://github.com/bparmentier/OpenBikeSharing
-|GigaGet|https://github.com/PaperAirplane-Dev-Team/GigaGet
-|LightningBrowser|https://github.com/anthonycr/Lightning-Browser
+|Acrylicpaint|https://github.com/valerio-bozzolan/AcrylicPaint.git
+|Alwayson|https://github.com/Domi04151309/AlwaysOn
+|Android-inventory-agent|https://github.com/flyve-mdm/android-inventory-agent.git
+|Android-usb-serial-monitor-lite|https://github.com/ksksue/Android-USB-Serial-Monitor-Lite.git
+|Anewjkuapp|https://github.com/marunjar/anewjkuapp.git
+|Ankieditor|https://github.com/jkennethcarino/AnkiEditor.git
+|Atmospherelogger|https://github.com/lllllT/AtmosphereLogger.git
+|Audioanchor|https://github.com/flackbash/AudioAnchor
+|Audiometer|https://github.com/quaap/AudioMeter
+|Ausweisapp2|https://github.com/Governikus/AusweisApp2
+|Autoairplanemode|https://github.com/MBach/AutoAirplaneMode
+|Avare|https://github.com/apps4av/avare
+|Blexplorer|https://github.com/ligi/BLExplorer.git
+|Boogdroid|https://github.com/JohnMH/BoogDroid
+|Botbrew-gui|https://github.com/jyio/botbrew-gui.git
+|Changedetection|https://github.com/bernaferrari/ChangeDetection
+|Cmus-android-remote|https://github.com/jatwigg/cmus-android-remote
+|Controlloid-client|https://github.com/experiment322/controlloid-client
+|Covid19stats|https://github.com/GabrielTavernini/Covid19Stats
+|Dailypill|https://github.com/hugomg/DailyPill
+|Dandelion|https://github.com/gsantner/dandelion
+|Droid48|https://github.com/shagr4th/droid48.git
+|Easytoken|https://github.com/cernekee/EasyToken
+|Easywatermark|https://github.com/rosuH/EasyWatermark
+|Effy|https://github.com/taky/effy.git
+|Gears2|https://github.com/jeffboody/gears2
+|Getoffyourphone|https://github.com/Alikaraki95/Getoffyourphone.git
+|Gigaget|https://github.com/PaperAirplane-Dev-Team/GigaGet
+|Glesquake|https://github.com/jackpal/glesquake
+|Glt-companion|https://github.com/linuxtage/glt-companion.git
+|Gpodroid|https://github.com/gpodder/GpodRoid.git
+|Headingcalculator|https://github.com/eugmes/headingcalculator.git
+|Holokenmod|https://github.com/queler/holokenmod
+|Http-shortcuts|https://github.com/Waboodoo/HTTP-Shortcuts.git
+|Igo|https://github.com/idunnololz/igo
+|Kerneladiutor|https://github.com/NHellFire/KernelAdiutor
+|Koreader|https://github.com/koreader/koreader.git
+|Languagepack|https://github.com/AnySoftKeyboard/LanguagePack.git
+|Languagepack|https://github.com/AnySoftKeyboard/LanguagePack.git
+|Lifecounter|https://github.com/foxykeep/lifecounter
+|Lightning-browser|https://github.com/anthonycr/Lightning-Browser.git
+|Listmyaps|https://github.com/onyxbits/listmyaps
+|Logmein-android|https://github.com/DevelopFreedom/logmein-android.git
+|Mbestyle|https://github.com/iAcn/MBEStyle
+|Media-button-router|https://github.com/harleensahni/media-button-router
+|Memento|https://github.com/yaa110/Memento
+|Memopad|https://github.com/zaki50/MemoPad.git
+|Mlauncher|https://github.com/chelovek84/mLauncher
+|Open_money_tracker|https://github.com/xorum-io/open_money_tracker
+|Openbikesharing|https://github.com/bparmentier/OpenBikeSharing
+|Openfoodfacts-androidapp|https://github.com/openfoodfacts/openfoodfacts-androidapp
+|Openmw-android|https://github.com/xyzz/openmw-android.git
+|Osmbugs|https://github.com/Gittner/OSMBugs
+|Permissionsmanager|https://github.com/sultanahamer/PermissionsManager
+|Pi-hole-droid|https://github.com/friimaind/pi-hole-droid
+|Pixivformuzei3|https://github.com/yellowbluesky/PixivforMuzei3
+|Portauthority|https://github.com/aaronjwood/PortAuthority
+|Privacy-friendly-netmonitor|https://github.com/SecUSo/privacy-friendly-netmonitor
+|Privacy-friendly-passwordgenerator|https://github.com/SecUSo/privacy-friendly-passwordgenerator
+|Privacy-friendly-reckoning-skills|https://github.com/SecUSo/privacy-friendly-reckoning-skills.git
+|Proexpense|https://github.com/arduia/ProExpense
+|Qbittorrent-client|https://github.com/lgallard/qBittorrent-Client
+|Qrscan|https://github.com/AndreMiras/QrScan.git
+|Rbb|https://github.com/btmura/rbb.git
+|Search-based-launcher-v2|https://github.com/vackosar/search-based-launcher-v2.git
+|Siteswap_generator|https://github.com/namlit/siteswap_generator
+|Smssync|https://github.com/ushahidi/SMSSync.git
+|Synctool|https://github.com/TheAkki/Synctool.git
+|Taxiandroidopen|https://github.com/sytolk/TaxiAndroidOpen
+|Towercollector|https://github.com/zamojski/TowerCollector
+|Trickytripper|https://github.com/koelleChristian/trickytripper.git
+|Tvhguide|https://github.com/john-tornblom/TVHGuide.git
+|Ushahidi_android|https://github.com/ushahidi/Ushahidi_Android.git
+|Vitosha-blackjack|https://github.com/VelbazhdSoftwareLLC/vitosha-blackjack.git
+|Voipms-sms-client|https://github.com/michaelkourlas/voipms-sms-client
+|Votar|https://github.com/stephanepoinsart/votar
+|Weather|https://github.com/scoute-dich/Weather
+|Wulkanowy|https://github.com/wulkanowy/wulkanowy
+|Yashlang|https://github.com/sadr0b0t/yashlang
+|Zeus|https://github.com/ZeusLN/zeus.git
 
 
 Tables containing the number of commits found improving nonfunctoinal propertieds in each repository can be found in the tables.pdf file

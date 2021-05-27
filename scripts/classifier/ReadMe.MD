@@ -11,6 +11,7 @@ You can reproduce everything by calling `reproduce.py:run()` after data has been
 ## How to reproduce the data
 
 - commit messages must be added to the files found in the data directory data, they can be found by searching github or downloading the repo they are from and using the git log command.
+A link to the commit can also be generated using the getCommitLink.py script.
 - `ReproductionAndTraining.check()` valdiates the commit count
 
 ## How to reproduce the classifier
