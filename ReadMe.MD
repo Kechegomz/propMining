@@ -141,7 +141,5 @@ The repository is structured as follows:
 **Scripts**: *A repository cotaining python scripts used to mine commits.*
 >**classifier** : *The automatic commit classifier*
 
-**Tables.pdf**: *Extended versions of tables containing information about commits using both keyword filtering and our automatic classifier
-
 ***NOTES***
 *Empty files are present where no commits of that group were found.*
