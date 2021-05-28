@@ -139,7 +139,7 @@ The repository is structured as follows:
 >>>**frameRate**
 
 **Scripts**: *A repository cotaining python scripts used to mine commits.*
->**classifier** : *The automatic commit classifier*
+>**classifier** : *The automatic commit classifier and the results of our experiments, as described in the appendix of the paper*
 
 ***NOTES***
 *Empty files are present where no commits of that group were found.*
